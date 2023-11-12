@@ -65,4 +65,3 @@ head = temp.pushNode(head, 1)
 temp.printNode(head)
 temp.printMiddle(head)
 
-# This code is contributed by Yash Agarwal
